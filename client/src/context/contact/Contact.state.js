@@ -20,20 +20,23 @@ const ContactState = props => {
     contacts: [
       {
         id: 1,
-        name: 'Marina Adriana',
+        name: 'Marina',
         email: 'Marina@yahoo.com',
+        phone: '1111-111-111',
         type: 'personal'
       },
       {
         id: 2,
         name: 'Adriana',
         email: 'Adriana@yahoo.com',
+        phone: '1111-111-121',
         type: 'professional'
       },
       {
         id: 3,
         name: 'Flavius',
         email: 'Flavius@yahoo.com',
+        phone: '1221-111-111',
         type: 'personal'
       }
     ]
