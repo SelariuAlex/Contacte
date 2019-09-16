@@ -255,6 +255,11 @@ img {
   color: #fff;
 }
 
+.bg-dark-black {
+  background: #1c1c1c;
+  color: #03a9f4;
+}
+
 .btn-danger,
 .bg-danger,
 .badge-danger,
